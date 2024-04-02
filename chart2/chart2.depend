@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627047743 source:c:\users\lenon\documents\programação\chart2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

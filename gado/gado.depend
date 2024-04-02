@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628520262 source:c:\users\lenon\documents\programação\gado\main.c
+	<stdio.h>
+	<stdlib.h>
+

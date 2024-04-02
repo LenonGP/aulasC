@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621977767 source:c:\users\lenon\documents\programação\posoideal\main.c
+	<stdio.h>
+	<stdlib.h>
+

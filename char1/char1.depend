@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627047097 source:c:\users\lenon\documents\programação\char1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625571195 source:c:\users\lenon\documents\programação\vetfirst\main.c
+	<stdio.h>
+	<stdlib.h>
+

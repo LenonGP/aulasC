@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628521186 source:c:\users\lenon\documents\programação\revendacarros\main.c
+	<stdio.h>
+	<stdlib.h>
+

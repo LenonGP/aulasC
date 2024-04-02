@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711461516 source:c:\users\lenon\documents\programação\vetoraleatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

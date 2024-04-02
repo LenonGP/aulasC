@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625572114 source:c:\users\lenon\documents\programação\milaozero\main.c
+	<stdio.h>
+	<stdlib.h>
+

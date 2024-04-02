@@ -1,0 +1,30 @@
+#clk
+net "clk" loc = v10;
+
+#7 segment display
+NET "leds[6]"     		LOC = "T17";
+NET "leds[5]"     		LOC = "T18";
+NET "leds[4]"     		LOC = "U17";
+NET "leds[3]"     		LOC = "U18";
+NET "leds[2]"     		LOC = "M14";
+NET "leds[1]"     		LOC = "N14";
+NET "leds[0]"     		LOC = "L14";
+
+NET "sel[0]"      		LOC = "N16";
+NET "sel[1]"      		LOC = "N15";
+NET "sel[2]"      		LOC = "P18";
+NET "sel[3]"      		LOC = "P17";
+
+#buttons
+NET "botao_elev_0" 		LOC = "A8";
+NET "botao_elev_1" 		LOC = "D9";
+NET "botao_elev_2" 		LOC = "C9";
+NET "botao_elev_3"		LOC = "C4";
+NET "botao_elev_terreo"	LOC = "B8";
+
+
+NET "botao_andar_0"      LOC = "T10";
+NET "botao_andar_1"      LOC = "T9";
+NET "botao_andar_2"      LOC = "V9";
+NET "botao_andar_3"      LOC = "M8";
+NET "botao_terreo"       LOC = "N8";

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625577963 source:c:\users\lenon\documents\programação\matrizfirst\main.c
+	<stdio.h>
+	<stdlib.h>
+
